@@ -2,4 +2,4 @@
 
 gitsync Test !!!
 
-GitHub Test GOGO
+GitHub에서 수정 했습니다.
