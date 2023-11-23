@@ -1,2 +1,2 @@
-# gitsync
-gitsync Test
+# GitSync Test Page
+
